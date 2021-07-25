@@ -3,7 +3,7 @@
  - :man_student: Estudante de Analise e Desenvolvimento de Sistemas.
  - :computer: Front-End em formação
  ## linkedin:
-<a href="linkedin.com/in/renan-fernandes-de-oliveira-262221213">
+<a href="https://www.linkedin.com/in/renan-fernandes-de-oliveira-262221213">
 <img align="center" alt="Renan-linkedin" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="max-width:100%;">
 </a>
 
